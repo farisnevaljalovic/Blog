@@ -1,0 +1,21 @@
+.blogDetails h2 {
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 10px;
+}
+.blogDetails p {
+    font-size: 14px;
+    color: gray;
+}
+.blogDetails div {
+    margin: 30px 0;
+}
+.blogDetails button {
+    background: #f1356d;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-transform: capitalize;
+}
